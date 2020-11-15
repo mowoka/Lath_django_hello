@@ -1,0 +1,24 @@
+/* This is Main CSS file */
+
+
+body{
+    background-color: #ebeff5;
+    /* background-color: whitesmoke; */
+}
+
+#total-orders{
+    background-color: #4cb4c7;
+}
+
+#orders-delivered{
+    background-color: #7abecc;
+}
+
+#orders-pending{
+    background-color: #7CD1C0;
+}
+
+#sticky-footer {
+    flex-shrink: none;
+}
+  
